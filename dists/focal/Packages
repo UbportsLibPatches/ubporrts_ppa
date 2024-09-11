@@ -2,10 +2,76 @@ Package: sdl2
 Version: 2.0.12
 Architecture: arm64
 Maintainer: Jhay Mendoza
+Filename: ./sdl2mir_aarch64-linux-gnu.deb
+Size: 3594918
+MD5sum: 22b0bd483177a9846fad755c65edd438
+SHA1: 8076684eef8046a3fc5d24703c8d38de1943706b
+SHA256: d9941715cf4aa723030ece979cfabc4157653eb75ae0ecfc4fbf80bbd9bec8ca
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2
+Version: 2.0.12
+Architecture: armhf
+Maintainer: Jhay Mendoza
+Filename: ./sdl2mir_arm-linux-gnueabihf.deb
+Size: 2882522
+MD5sum: e8fab70d31114ef8c74d6ccda5fe9e6d
+SHA1: 10fec3adc09265a7a9224b30ecc383f9b420c244
+SHA256: c6a3e8f9720e3e4b0b81ad5294c21b5f78561bd480f6d453c9cb9ab41427a025
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2
+Version: 2.0.12
+Architecture: arm64
+Maintainer: Jhay Mendoza
 Filename: ./sdl2mir_arm64.deb
 Size: 3595276
 MD5sum: 4eed773d56bf17466dba75a886e472c3
 SHA1: b266df0d0f238638d7c953c18abe4c338524e564
 SHA256: 4962b6de018856af01574376761f0846f6316fb07a23e145ecb37b1ae29bcb8a
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2
+Version: 2.0.12
+Architecture: amd64
+Maintainer: Jhay Mendoza
+Filename: ./sdl2mir_x86_64-linux-gnu.deb
+Size: 4442298
+MD5sum: 9eeeee70dd4a8e665fd48f02c32c10fa
+SHA1: f2d8e9b4db0ef90460e063dbfb7e399f183cdb2f
+SHA256: 416794e97ccdaad7fb996845be494c900845c97fe0569984cb6af1c4f44c2b73
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2-image-dev
+Version: 2.0.1
+Architecture: arm64
+Maintainer: Jhay Mendoza
+Filename: ./sdl2-image_aarch64-linux-gnu.deb
+Size: 79888
+MD5sum: feb5cb04e225b6a5ae3844e4df55a68c
+SHA1: e23c0bb5f32119993d929b1495bbc66990a2f8fb
+SHA256: 887b77dfdd3c19d0777ed36726c55cb20ed7a5524cd2108dd1fc80405d4a2c61
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2-image-dev
+Version: 2.0.1
+Architecture: armhf
+Maintainer: Jhay Mendoza
+Filename: ./sdl2-image_arm-linux-gnueabihf.deb
+Size: 75818
+MD5sum: 78e22f4d705eba5cbd96df91d2c5548e
+SHA1: f86274c5286bfef1c3bad08c2952bd577d029284
+SHA256: 31f23dea0b6fa5473cece2c8982474e21d0cfcbcf03d740d321f26ad48660503
+Description: SDL2 build for device that uses mir display
+
+Package: sdl2-image-dev
+Version: 2.0.1
+Architecture: amd64
+Maintainer: Jhay Mendoza
+Filename: ./sdl2-image_x86_64-linux-gnu.deb
+Size: 84050
+MD5sum: 95706149ce094731dd9fbd84e07f4abc
+SHA1: 456b831e3984e151383430e57e78cf8d5dee032d
+SHA256: 9a3c1e4272ce4a2af366bcee8c9ae7b03d07d9d4006152eb4b974277d36e9d37
 Description: SDL2 build for device that uses mir display
 
