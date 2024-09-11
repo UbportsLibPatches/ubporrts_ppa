@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/ubporrts_ppa.gpg] https://UbportsLibPatches.github.io/ubporrts_ppa ./
